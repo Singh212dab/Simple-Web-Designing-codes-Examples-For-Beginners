@@ -1,0 +1,33 @@
+.mbox{
+	 margin: 20px;
+	 padding: 15px;
+	 border:2px red solid;
+	 text-align:center;
+ }
+ 
+ .mbox h1{
+	 font-size:48px;
+	 color:coral;
+	 text-transform:uppercase;
+	 font-family:helvatica, sans-serif;
+	 letter-spacing:0.7em;
+	 
+ }
+ 
+ .mbox img{
+	 
+	 border:3px Blue dashed;
+	 padding:5px;
+     border-radius:25px;	 
+	 background:gold;
+  }
+  
+ .mbox h2{
+	     text-decoration:underline;
+		 color:Blue;
+ }
+ 
+ p{
+	 text-align:justify;
+	 
+ }
